@@ -150,3 +150,7 @@ td { vertical-align: top; }
   text-align:right;
 }
 
+.italic{
+  font-style:italic;
+}
+
