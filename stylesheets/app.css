@@ -66,6 +66,8 @@ td { vertical-align: top; }
 #wrapper {
   margin-left: 250px;
   padding-right: 100px;
+  min-width:500px;
+  max-width:1200px;
 }
 .indent {
   margin-left: 40px;
