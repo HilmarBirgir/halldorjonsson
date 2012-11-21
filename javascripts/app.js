@@ -76,14 +76,7 @@
 
 window.require.define({"initialize": function(exports, require, module) {
   
-  $(function() {
-    var app;
-    $('.toc').toc({
-      'selectors': 'h1,h2,h3,h4'
-    });
-    app = new Application();
-    return app.initialize();
-  });
+  $(function() {});
   
 }});
 
