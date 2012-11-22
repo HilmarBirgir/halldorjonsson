@@ -84,11 +84,11 @@ h2 {
 }
 .container {
   background: #fff;
-  height: 700px;
   -webkit-border-radius: 9px;
   border-radius: 9px;
   margin-top: 20px !important;
   margin-bottom: 20px !important;
+  padding-bottom: 40px !important;
 }
 .margin {
   margin-top: 20px;
@@ -169,6 +169,13 @@ h2 {
   font-size: 11px;
 }
 .formline a:hover {
+  font-size: 12px;
+}
+#two a {
+  font-size: 11px;
+  padding-top: 10px;
+}
+#two a:hover {
   font-size: 12px;
 }
 /* Base Grid
