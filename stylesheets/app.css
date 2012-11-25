@@ -178,6 +178,9 @@ h2 {
 #two a:hover {
   font-size: 12px;
 }
+.width {
+  width: 100%;
+}
 /* Base Grid
 ================================================== */
 .container {
