@@ -153,12 +153,7 @@ h2 {
   width: 153px;
   display: inline-block;
   padding-top: 17px;
-  background: -webkit-gradient(linear, left bottom, left top, color-stop(0.4, #374156), color-stop(0.7, #535b70));
-  background: -webkit-linear-gradient(bottom, #374156 40%, #535b70 70%);
-  background: -moz-linear-gradient(bottom, #374156 40%, #535b70 70%);
-  background: -o-linear-gradient(bottom, #374156 40%, #535b70 70%);
-  background: -ms-linear-gradient(bottom, #374156 40%, #535b70 70%);
-  background: linear-gradient(bottom, #374156 40%, #535b70 70%);
+  background: #565872;
   -webkit-border-radius: 9px;
   border-radius: 9px;
   color: #fff;
