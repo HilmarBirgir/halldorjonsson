@@ -103,7 +103,7 @@ h2 {
   width: 200px;
   display: inline-block;
   padding-top: 13px;
-  background: -webkit-linear-gradient(top, #8730b2 20%, #561f72 100%), #3e1652;
+  background: #9400b9;
   -webkit-box-shadow: 0 -1px 1px #bd7fdd, 0 2px 4px rgba(0,0,0,0.3);
   box-shadow: 0 -1px 1px #bd7fdd, 0 2px 4px rgba(0,0,0,0.3);
   -webkit-border-radius: 9px;
@@ -128,7 +128,7 @@ h2 {
   width: 153px;
   display: inline-block;
   padding-top: 17px;
-  background: -webkit-linear-gradient(top, #8730b2 20%, #561f72 100%), #3e1652;
+  background: #9400b9;
   -webkit-box-shadow: 0 -1px 1px #bd7fdd, 0 2px 4px rgba(0,0,0,0.3);
   box-shadow: 0 -1px 1px #bd7fdd, 0 2px 4px rgba(0,0,0,0.3);
   -webkit-border-radius: 9px;
